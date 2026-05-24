@@ -34,19 +34,6 @@ Restaurant dataset provided for Cognifyz Technologies internship.
 - VS Code
 - GitHub
 
-## Dashboard Screenshots
-
-### Task 1: Rating Prediction
-![Task 1](images/task1_rating_prediction.png)
-
-### Task 2: Restaurant Recommendation
-![Task 2](images/task2_recommendation.png)
-
-### Task 3: Cuisine Classification
-![Task 3](images/task3_cuisine_classification.png)
-
-### Task 4: Location-Based Analysis
-![Task 4](images/task4_location_analysis.png)
 
 ## How to Run
 
