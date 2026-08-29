@@ -41,13 +41,13 @@ The prediction model could potentially help restaurants understand the factors a
 - VS Code
 - GitHub
 
-Key Skills Demonstrated
-Data Cleaning
-Exploratory Data Analysis (EDA)
-Feature Engineering
-Machine Learning
-Data Visualization
-Problem Solving
+Key Skills Demonstrated:
+* **Data Cleaning
+* **Exploratory Data Analysis (EDA)
+* **Feature Engineering
+* **Machine Learning
+* **Data Visualization
+* **Problem Solving
 Most Important Skill Developed
 
 Machine Learning: I learned how to prepare restaurant data, select relevant features, build a regression model, and evaluate its ability to predict restaurant ratings.
